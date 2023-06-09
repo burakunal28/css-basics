@@ -40,7 +40,7 @@ body {
   .menu li a {
     color: #efefef;
     text-decoration: none;
-    transition: color 0.3s ease; /* Renk geçiş efekti için transition özelliği */
+    transition: color 0.3s ease;
   }
   
   .menu li a:hover {
